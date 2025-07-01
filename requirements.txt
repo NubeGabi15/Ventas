@@ -1,1 +1,8 @@
-streamlit
+streamlit>=1.25
+pandas
+numpy
+plotly
+prophet
+scikit-learn
+seaborn
+requests
